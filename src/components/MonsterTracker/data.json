@@ -1,0 +1,169 @@
+[
+  {
+    "area": "Besaid",
+    "monsters": [
+      "Dingo",
+      "Condor",
+      "Water Flan"
+    ]
+  },
+  {
+    "area": "Kilika",
+    "monsters": [
+      "Dinonix",
+      "Killer Bee",
+      "Y. Element",
+      "Ragora"
+    ]
+  },
+  {
+    "area": "Bikanel",
+    "monsters": [
+      "TODO",
+      "TODO1",
+      "TODO2",
+      "TODO3",
+      "TODO4",
+      "TODO5"
+    ]
+  },
+  {
+    "area": "Mi'ihen Highroad",
+    "monsters": [
+      "M. Fang",
+      "Ipiria",
+      "F. Eye",
+      "W. Element",
+      "Raldo",
+      "Vouivre",
+      "Bomb",
+      "Dual Horn"
+    ]
+  },
+  {
+    "area": "Mushroom Rock Road",
+    "monsters": [
+      "Raptor",
+      "Gandarew",
+      "Thunder",
+      "Red Elem",
+      "Lamashtu",
+      "Funguar",
+      "Garuda"
+    ]
+  },
+  {
+    "area": "Djose Road",
+    "monsters": [
+      "Garm",
+      "Simurgh",
+      "Bite Bug",
+      "Snow Flan",
+      "Bunyip",
+      "Basilisk",
+      "Ochu"
+    ]
+  },
+  {
+    "area": "Thunder Plains",
+    "monsters": [
+      "Melusine",
+      "Aerouge",
+      "Buer",
+      "G. Element",
+      "Kusariqqu",
+      "Larva",
+      "Iron Giant",
+      "TODO"
+    ]
+  },
+  {
+    "area": "Macalania",
+    "monsters": [
+      "Snow Wolf",
+      "Iguion",
+      "Wasp",
+      "Evil Eye",
+      "Ice Flan",
+      "B. Element",
+      "Murussu",
+      "Mafdet",
+      "TODO",
+      "Chimera"
+    ]
+  },
+  {
+    "area": "Calm Lands",
+    "monsters": [
+      "Skoll",
+      "Nebiros",
+      "Flame Flan",
+      "Shred",
+      "Anacondaur",
+      "Ogre",
+      "Coeurl",
+      "C. Brain",
+      "Malboro"
+    ]
+  },
+  {
+    "area": "Stolen Fayth Cavern",
+    "monsters": [
+      "Yowie",
+      "Imp",
+      "Dark Element",
+      "Nidhogg",
+      "Thorn",
+      "Valaha",
+      "Epaaj",
+      "Ghost",
+      "Tonberry"
+    ]
+  },
+  {
+    "area": "Mt. Gagazet",
+    "monsters": [
+      "Bandersnatch",
+      "Ahriman",
+      "Dark Flan",
+      "Grenade",
+      "Grat",
+      "Grendel",
+      "Bashura",
+      "Mandragora",
+      "Behemoth",
+      "Splasher",
+      "Achelous",
+      "Maelspike"
+    ]
+  },
+  {
+    "area": "Inside Sin",
+    "monsters": [
+      "Exoray",
+      "Wraith",
+      "Gemini",
+      "Gemini2",
+      "Demonolith",
+      "Great Malboro",
+      "TODO",
+      "Adamantoise",
+      "Behemoth King"
+    ]
+  },
+  {
+    "area": "Omega Dungeon",
+    "monsters": [
+      "Zaurus",
+      "Floating Death",
+      "Black Element",
+      "Halma",
+      "Puroboros",
+      "Spirit",
+      "Machea",
+      "Master Coeurl",
+      "Master Tonberry",
+      "Varuna"
+    ]
+  }
+]

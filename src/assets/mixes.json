@@ -1,6 +1,6 @@
 [
   {
-    "category": "CURATIVE",
+    "category": "Curative effects",
     "effects": [
       {
         "name": "Ultra Potion",
@@ -6839,7 +6839,7 @@
     ]
   },
   {
-    "category": "SPECIAL",
+    "category": "Defense and support",
     "effects": [
       {
         "name": "Mana",
@@ -14668,7 +14668,7 @@
     ]
   },
   {
-    "category": "FIRE",
+    "category": "Fire damage",
     "effects": [
       {
         "name": "Heat Blaster",
@@ -15567,7 +15567,7 @@
     ]
   },
   {
-    "category": "THUNDER",
+    "category": "Thunder damage",
     "effects": [
       {
         "name": "Thunderbolt",
@@ -16466,7 +16466,7 @@
     ]
   },
   {
-    "category": "WATER",
+    "category": "Water damage",
     "effects": [
       {
         "name": "Waterfall",
@@ -17377,7 +17377,7 @@
     ]
   },
   {
-    "category": "ICE",
+    "category": "Ice damage",
     "effects": [
       {
         "name": "Snow Flurry",
@@ -18276,7 +18276,7 @@
     ]
   },
   {
-    "category": "NON-ELEMENTAL",
+    "category": "Non-elemental damage",
     "effects": [
       {
         "name": "Blaster Mine",
